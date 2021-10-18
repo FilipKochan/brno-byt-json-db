@@ -1,16 +1,20 @@
 {
-  "posts":[
+  "accounts": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "name": "Jakub",
+      "castka": 0,
+      "id": 69
+    },
+    {
+      "name": "Filip",
+      "castka": 0,
+      "id": 420
+    },
+    {
+      "name": "Tomas",
+      "castka": 0,
+      "id": 123456
     }
   ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
-  ]
+  "transactionsHistory": []
 }
