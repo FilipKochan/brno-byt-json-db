@@ -2,17 +2,26 @@
   "accounts": [
     {
       "name": "Jakub",
-      "castka": 0,
+      "owesTo": {
+        "420": 0,
+        "123456": 0
+      },
       "id": 69
     },
     {
       "name": "Filip",
-      "castka": 0,
+      "owesTo": {
+        "69": 0,
+        "123456": 0
+      },
       "id": 420
     },
     {
       "name": "Tomas",
-      "castka": 0,
+      "owesTo": {
+        "420": 0,
+        "69": 0
+      },
       "id": 123456
     }
   ],
